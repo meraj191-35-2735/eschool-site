@@ -1,0 +1,81 @@
+        .second {
+            height: 400px;
+        }
+        
+        .details {
+            margin-bottom: 50px;
+        }
+        
+        .need-margin {
+            margin-bottom: 250px;
+        }
+        
+        .meraj {
+            color: brown;
+        }
+        
+        .schedule {
+            color: rgb(3, 236, 236);
+        }
+        
+        .my-button {
+            background-color: rgb(3, 236, 236);
+            color: white;
+            border: 1px solid black;
+            border-radius: 30px;
+            padding: 9px 25px;
+            cursor: pointer;
+        }
+        
+        .first img {
+            width: 75%;
+        }
+        
+        .card {
+            border: none;
+            border-radius: 10px;
+            box-shadow: 5px 5px 10px lightgray;
+        }
+        
+        .card img {
+            height: 300px;
+            padding: 50px;
+        }
+        
+        .card-footer {
+            background-color: white;
+            border-top: none;
+            height: 100px;
+        }
+        
+        .other {
+            text-align: center;
+        }
+        
+        .testimonial {
+            padding-top: 100px;
+        }
+        
+        .another-margin {
+            margin-bottom: 100px;
+        }
+        
+        .footer {
+            background-color: black;
+            color: white;
+            border-radius: 50px;
+        }
+        
+        .paragraph {
+            text-align: justify;
+        }
+        
+        .footer ul {
+            list-style-type: none;
+            text-align: left;
+        }
+        
+        .copyright {
+            text-align: center;
+            font-size: x-small;
+        }
